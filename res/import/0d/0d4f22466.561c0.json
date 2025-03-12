@@ -1,1 +1,0 @@
-[{"__type__":"cc.SpriteFrame","content":{"name":"smoke","texture":"78LAOOqJhBLYDy1gCJ/DVC","rect":[3,5,69,66],"offset":[0,-0.5],"originalSize":[75,75],"capInsets":[0,0,0,0]}},{"__type__":"cc.ParticleAsset","_name":"smoke","_native":".plist","spriteFrame":{"__uuid__":"b2iKAcpwFO8IAgRHxfX61E"}}]
